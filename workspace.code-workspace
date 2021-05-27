@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "..\\SITE_PRO-3-RESPONSIVE\\SITE_PRO-3-RESPONSIVE"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "SITE_WEB_PRO"
+	}
+}
